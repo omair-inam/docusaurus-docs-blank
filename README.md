@@ -1,6 +1,5 @@
 # Website
-
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This is a template repo for using [Docusaurus 2](https://docusaurus.io/) to generate a docs-only website.
 
 ### Installation
 

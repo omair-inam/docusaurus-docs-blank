@@ -73,6 +73,7 @@ const config = {
       },
       footer: {
         style: 'dark',
+/*        
         links: [
           {
             title: 'Docs',
@@ -110,6 +111,7 @@ const config = {
             ],
           },
         ],
+ */       
         copyright: `Copyright © ${new Date().getFullYear()} <a href="UpdateMe">UpdateMe_ProjectName</a> Built with Docusaurus.`,
       },
       prism: {

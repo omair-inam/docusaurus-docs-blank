@@ -7,6 +7,9 @@ This is a template repo for using [Docusaurus 2](https://docusaurus.io/) to gene
 $ yarn
 ```
 
+### Setup
+* Search for all instances of `UpdateMe` in the codebase and replace with a suitable value for your project.
+
 ### Local Development
 
 ```

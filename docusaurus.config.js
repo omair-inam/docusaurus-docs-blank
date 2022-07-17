@@ -58,12 +58,14 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+/*          
           {
             type: 'doc',
             docId: 'index',
             position: 'left',
             label: 'Tutorial',
           },
+*/
           {
             href: 'https://github.com/UpdateMe_GithubUser/UpdateMe_GithubProject',
             label: 'GitHub',
